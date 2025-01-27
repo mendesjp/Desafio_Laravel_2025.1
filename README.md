@@ -13,7 +13,7 @@ O desafio tem como intuito treinar os novos membros da Code Jr., afim de familia
 Para executar o projeto você deve seguir os seguintes passos:
 
 - Copie o arquivo `.env.example` e renomeie sua cópia para `.env`
-- Crie um banco 'MySql' com o nome de `desafio_laravel_2024.2`
+- Crie um banco 'MySql' com o nome de `desafio_laravel_2025`
 - execute o comando: ```composer install```
 - execute o comando: ```php artisan key:generate``` 
 - execute o comando: ```npm install```
